@@ -137,7 +137,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://mez.ink/meek30102003";
+            window.location = "https://linkbio.co/tiendung2k03";
           },
         });
       }
